@@ -1,0 +1,14 @@
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.deps.json
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.json
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.dev.json
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cs
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfo.cs
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\Buddhika\Projects\DatingAppv2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
