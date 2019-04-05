@@ -1,7 +1,9 @@
 using System;
+using System.Linq;
 using System.Security.Cryptography;
 using System.Threading.Tasks;
 using DatingApp.API.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace DatingApp.API.Data
 {
@@ -13,9 +15,10 @@ namespace DatingApp.API.Data
             _context = context;
         }
 
-        public Task<bool> IsUserExists(string username)
+        public async Task<bool> IsUserExistsAsync(string username)
         {
-            throw new System.NotImplementedException();
+            var isUserExists = await _context.Users.AnyAsync(x => x.Username == username);
+            return isUserExists;
         }
 
         public Task<User> Login(string username, string password)
