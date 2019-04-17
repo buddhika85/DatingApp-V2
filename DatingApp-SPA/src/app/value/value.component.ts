@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { error } from 'util';
 
 @Component({
   selector: 'app-value',
