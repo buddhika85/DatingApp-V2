@@ -9,8 +9,10 @@ API - ASP.NET Core 2.1
 
 ## Run App via VS Code
 
-cd to DatingApp.API folder on Terminal and execute - dotnet run / dotnet watch run
-cd to DatingApp-SPA folder on Terminal and execute - ngserve 
+### cd to DatingApp.API folder on Terminal and execute - 
+dotnet run / dotnet watch run
+### cd to DatingApp-SPA folder on Terminal and execute - 
+ngserve 
 
 
 ## Entity Framework Core Commands to Run the DB Migrations
