@@ -4,8 +4,8 @@ DatingApp Version 2
 
 A sample tutorial to learn how to develop an Angular 6 SPA (Single Page Application) to communicate with ASP.NET Core Web API Rest Service. 
 
-SPA - Angular 6
-API - ASP.NET Core 2.1
+#### SPA - Angular 6
+#### API - ASP.NET Core 2.1
 
 ## Run App via VS Code
 
